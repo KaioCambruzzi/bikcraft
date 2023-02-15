@@ -19,6 +19,8 @@
 @import "/css/home/depoimento.css";
 /*seguros*/
 @import "/css/seguros/seguros.css";
+@import "/css/seguros/vantagens.css";
+@import "/css/seguros/perguntas.css";
 
 @import "/css/termos/termos.css";
 @import "/css/bicicletas/bicicletas.css";

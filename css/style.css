@@ -11,6 +11,7 @@
 
 /*bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicleta/bicicleta.css";
 
 /*Tecnologias*/
 @import "/css/home/tecnologia.css";
@@ -21,6 +22,7 @@
 @import "/css/seguros/seguros.css";
 @import "/css/seguros/vantagens.css";
 @import "/css/seguros/perguntas.css";
+@import "/css/bicicleta/seguro.css";
 
 @import "/css/termos/termos.css";
 @import "/css/bicicletas/bicicletas.css";
